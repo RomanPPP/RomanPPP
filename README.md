@@ -20,4 +20,4 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurgitlab&layout=compact&theme=dark&width=100%)](https://github.com/romanppp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanppp&layout=compact&theme=dark&width=100%)](https://github.com/romanppp)
