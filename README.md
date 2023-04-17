@@ -1,5 +1,5 @@
 
-## React developer
+## JavaScript/TypeScript Developer
 
 ### Languages and tools
 ![JS](https://img.shields.io/badge/JS(ES6+)-090909?style=for-the-badge&logo=javascript) ![TS](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript)
