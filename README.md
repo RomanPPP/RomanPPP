@@ -16,7 +16,7 @@ https://img.shields.io/badge/nodejs-090909?style=for-the-badge&logo=Node.JS)
 ### Contacts
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/romanpppppp)
 
-### Works
+### Latest Works
 [TypeScript 3d rigid body physics engine](https://github.com/RomanPPP/TypeScript-Physics-Engine)
 
 ### Stats
